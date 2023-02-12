@@ -1,0 +1,57 @@
+.j-orange{
+    background:rgb(212,145,87);
+    border:0;
+    color:white;
+}
+
+
+.j-green{
+    background:rgb(66,183,142);
+    border:0;
+    color:white;
+}
+
+
+.j-link{
+    color:black;
+}
+
+.j-active-link{
+    color:gray;
+
+}
+
+.j-btn:hover{
+    background:gray;
+    color:white;
+}
+
+/* this is for cart.php ui/ux feature but not working from outside the cart.php
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFF;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+.wrapper span{
+    width: 100%;
+    /* text-align: center; */
+    cursor: pointer;
+    user-select: none;
+    transition: 250ms ease-in-out;
+
+}
+.wrapper span:hover{
+    
+    font-size:30px;
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+-webkit-appearance: none; 
+}
+*/
